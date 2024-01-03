@@ -1,0 +1,17 @@
+{
+    "name": "anton/advanced-mvc",
+    "description": "MVC mais avançado que usa de uma organização mais profunda.",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Antonio Mauricio",
+            "email": "antonioimportant@gmail.com"
+        }
+    ],
+    "require": {}
+}
